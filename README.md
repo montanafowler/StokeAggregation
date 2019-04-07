@@ -5,7 +5,9 @@
 * Leon Lei
 * Fangrui Tong
 
-## Project Summary: We are planning to implement a stroke aggregator using C++ with Blend2d. We plan to segment work as follows:
+## Project Summary: 
+We are planning to implement a stroke aggregator using C++ with Blend2d. We plan to segment work as follows:
+
 ### Week 1: 
 Planning, test cases, firm grasp of paper. Set up version control. We will start by having one person setting up our vector graphics library. At the same, one of us will be writing a single metric for stroke clustering, while the rest work on setting up data structures to store vector drawings & metrics. (Ben: Graphics Lib, Leon: Metrics (likely angular compatibility since this is used for clustering), Montana/Fawn: data structures, Montana: produce test drawings on tablet)
 ### Week 2: 
