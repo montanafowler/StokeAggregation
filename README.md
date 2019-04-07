@@ -22,18 +22,23 @@ Grace period!
 ## Member Backgrounds:
 ### Ben Gabinet: 
 3D Animation student and 2D Game Engines TA. Programming for Maya, Nuke, Houdini, and After Effects. Experience in web development and software engineering. Knowledgeable in 2D vector design programs such as premier.
+
 I would like to learn more about vector graphics and programming for software that works in 2D.
 ### Leon Lei: 
 Artificial Intelligence/Machine Learning, Graphics, Computer Vision, Web Apps (HTML, SVG, visualization), SWE, Basic (and not as basic) Maths.
+
 I would be interested in learning more about how they cluster and refine clusters, as well as gain more comfort with optimization problems
 ### Montana Fowler:
 Graphics TA, Software Engineering Experience, drawing pad, some vectorized drawing experience, artist, stats, linear, research in visual computing lab
+
 What I would like to learn: what its like to build a support artist tool, how to read strokes and artistic intention through programming, how to implement a research paper, use Blend2d api, optimization
 ### Fawn Tong: 
 Computer Vision, Software Engineering, Web Development (HTML, CSS, SVG, web apps TA), experience in implementing vectorized drawing apps, experience in 2d drawing/sketching, research in graphics lab
+
 What I would like to learn: Solving for optimization problems, creating a 2d drawing app with an integrated backend. 
 
-## Paper: https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf
+## Paper: 
+https://www.cs.ubc.ca/labs/imager/tr/2018/StrokeAggregator/StrokeAggregator_authorversion.pdf
 
 ## Necessary Libraries/Resources:
 * https://blend2d.com/
